@@ -7,12 +7,9 @@
 21 y.o frontend dev, currently living on Yekaterinburg, Russia. Well-developed ability to seek and assimilate new information, eager to learn new skills and develop existing ones.
 
 # Skills
-Html&Css
-========
-JavaScript/TypeScript
-=====================
+Html&Css <br>
+JavaScript/TypeScript <br>
 React
-
 
 # Code Examples
 ##  [3D models of relief and cityscape](https://github.com/c00b3r/Project-3D-models-of-relief-and-cityscape)
@@ -28,8 +25,6 @@ SPA
 **Software engineer**
 
 # Courses
-
-[RSS school](https://rs.school/) Frontend-dev
-=============================================
+[RSS school](https://rs.school/) Frontend-dev <br>
 [Justcode](https://github.com/c00b3r/justcode) Frontend-dev
 
